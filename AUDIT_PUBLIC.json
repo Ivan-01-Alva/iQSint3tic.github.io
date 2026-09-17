@@ -1,0 +1,16 @@
+{
+  "protocol_id": "d20db3722dfc1910d0564a3ef9bb91547d7a3989a8283c9a9eaf523b918017a7",
+  "created_local": "2026-09-17T13:53:11+02:00",
+  "public_release_zip_sha256": "e13f4efd200f176e6413ed5b3d6c99988d017d6e961e068c88ef9a19b414edf6",
+  "private_recovery_zip_sha256": "a2e674ef6305d2b050c683ef64ddd55f89f0b27515cbb7f5003f10783b1e25c0",
+  "encrypted_payload_sha256": "c4675fd8f9f8a5002e7789e126c27c8adc58f17ad097d568995173fbe06ba407",
+  "plaintext_payload_sha256": "2969ce90a83d78e4304e71b562f1588601ba5893457d1e31ddd284b0131d747a",
+  "content_key_commitment_sha256": "a05e7cfe87c851b6b9860b0930d788bf3352f9017ed86e9d2d67c934b3de6a47",
+  "return_token_commitment_sha256": "7a42dacc3980bc13c79a38d7a7f08948cfa2416d1f1dbb10ff69f203fd34e8ae",
+  "ed25519_public_key_hex": "7c9d87f0de3cc66ce7d11223dcfa6761d29309ba127e7f985bef7d1242cc0e46",
+  "self_tests": {
+    "shamir_first_3_reconstruct_key": true,
+    "aes_gcm_decrypts_exact_plaintext": true,
+    "ed25519_signature_verifies": true
+  }
+}

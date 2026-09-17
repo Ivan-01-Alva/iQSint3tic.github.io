@@ -1,7 +1,7 @@
 {
   "protocol_id": "d20db3722dfc1910d0564a3ef9bb91547d7a3989a8283c9a9eaf523b918017a7",
   "created_local": "2026-09-17T13:53:11+02:00",
-  "public_release_zip_sha256": "e13f4efd200f176e6413ed5b3d6c99988d017d6e961e068c88ef9a19b414edf6",
+  "public_release_zip_sha256": "df917d631dd58cd1d94a7a948c820820a9821a47cbad3c2154f3baad1135fd35",
   "private_recovery_zip_sha256": "a2e674ef6305d2b050c683ef64ddd55f89f0b27515cbb7f5003f10783b1e25c0",
   "encrypted_payload_sha256": "c4675fd8f9f8a5002e7789e126c27c8adc58f17ad097d568995173fbe06ba407",
   "plaintext_payload_sha256": "2969ce90a83d78e4304e71b562f1588601ba5893457d1e31ddd284b0131d747a",
